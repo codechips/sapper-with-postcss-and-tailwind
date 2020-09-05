@@ -28,15 +28,15 @@
   <div>
     <h2 class="text-8xl font-semibold">Sapper Boilerplate</h2>
     <p class="text-5xl">
-      with <strong>PostCSS</strong> and <strong>Tailwind</strong>
+      with <strong>PostCSS</strong> and <strong>Tailwind CSS</strong>
     </p>
   </div>
   <p class="text-lg">
-    This is working example <strong>Sapper</strong> app with the easiest <strong
-    >PostCSS</strong> + <strong>Tailwind</strong> setup.
+    This is a working example of a <strong>Sapper</strong> app with the easiest <strong
+    >PostCSS</strong> + <strong>Tailwind CSS</strong> setup.
   </p>
   <p>
-    You can find the code at <a href="https://github.com/codechips/sapper-with-postcss-and-tailwind"> github.com/codechips/sapper-with-postcss-and-tailwind </a>
+    You can find the code at <a href="https://github.com/codechips/sapper-with-postcss-and-tailwind">github.com/codechips/sapper-with-postcss-and-tailwind </a>
   </p>
   <p>If you want to know all the juicy details read the blog post.</p>
   <p>
@@ -54,5 +54,5 @@
     </div>
   {/if}
   <button class="btn" on:click={() => (show = !show)}>don't press this button.
-    seriosly.</button>
+    seriously.</button>
 </div>
