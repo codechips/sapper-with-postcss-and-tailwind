@@ -6,6 +6,7 @@
     "dev": "run-p watch:*",
     "watch:css": "postcss src/assets/global.pcss -o static/global.css -w",
     "watch:dev": "sapper dev",
+    "build": "run-s build:css build:sapper",
     "build:css": "NODE_ENV=production postcss src/assets/global.pcss -o static/global.css",
     "build:sapper": "NODE_ENV=production sapper build --legacy",
     "build:export": "NODE_ENV=production sapper export --legacy",
