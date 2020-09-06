@@ -38,7 +38,7 @@
   <p>
     You can find the code at <a href="https://github.com/codechips/sapper-with-postcss-and-tailwind">github.com/codechips/sapper-with-postcss-and-tailwind </a>
   </p>
-  <p>If you want to know all the juicy details read the blog post.</p>
+  <p>Read the blog post if you want to know all the juicy details 🍊</p>
   <p>
     <a
       class="font-semibold text-2xl text-blue-500"
