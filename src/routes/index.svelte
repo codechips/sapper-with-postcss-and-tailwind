@@ -27,16 +27,28 @@
 <div class="space-y-8">
   <div>
     <h2 class="text-8xl font-semibold">Sapper Boilerplate</h2>
-    <p class="text-5xl">
-      with <strong>PostCSS</strong> and <strong>Tailwind CSS</strong>
+    <p class="text-5xl mt-4">
+      with
+      <strong>PostCSS</strong>
+      and
+      <strong>Tailwind CSS</strong>
     </p>
   </div>
   <p class="text-lg">
-    This is a working example of a <strong>Sapper</strong> app with the easiest <strong
-    >PostCSS</strong> + <strong>Tailwind CSS</strong> setup.
+    This is a working example of a
+    <strong>Sapper</strong>
+    app with the easiest
+    <strong>PostCSS</strong>
+    +
+    <strong>Tailwind CSS</strong>
+    setup.
   </p>
   <p>
-    You can find the code at <a href="https://github.com/codechips/sapper-with-postcss-and-tailwind">github.com/codechips/sapper-with-postcss-and-tailwind </a>
+    You can find the code at
+    <a
+      href="https://github.com/codechips/sapper-with-postcss-and-tailwind"
+    >github.com/codechips/sapper-with-postcss-and-tailwind
+    </a>
   </p>
   <p>Read the blog post if you want to know all the juicy details 🍊</p>
   <p>
